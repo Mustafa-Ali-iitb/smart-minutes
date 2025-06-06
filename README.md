@@ -32,7 +32,7 @@ Access the live app here: [https://twinmind-frontend-di71.onrender.com/](https:/
 
 ```bash
 git clone https://github.com/Mustafa-Ali-iitd/smart-minutes.git
-cd twinmind-app
+cd smart-minutes
 ```
 
 ---
