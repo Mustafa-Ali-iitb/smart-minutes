@@ -1,6 +1,6 @@
-# TwinMind 🧠 – Smart Meeting Assistant
+# Smart Minutes 🧠 – AI-Powered Meeting Assistant
 
-TwinMind is an intelligent meeting assistant that integrates with your Google Calendar to let you:
+Smart Minutes is an intelligent meeting assistant that integrates with your Google Calendar to let you:
 
 * View Upcoming and Past Meetings
 * Join and Transcribe Meetings (via mic or screen share)
@@ -9,12 +9,11 @@ TwinMind is an intelligent meeting assistant that integrates with your Google Ca
 * Save and Search Transcript Conversations
 
 ---
-
-## 🌐 Live Demo
+<!-- ## 🌐 Live Demo
 
 Access the live app here: [https://twinmind-frontend-di71.onrender.com/](https://twinmind-frontend-di71.onrender.com/)
 
----
+--- -->
 
 ## 🧰 Tech Stack
 
@@ -32,7 +31,7 @@ Access the live app here: [https://twinmind-frontend-di71.onrender.com/](https:/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Mustafa-Ali-iitd/twinmind-app.git
+git clone https://github.com/Mustafa-Ali-iitd/smart-minutes.git
 cd twinmind-app
 ```
 
